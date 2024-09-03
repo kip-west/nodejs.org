@@ -11,7 +11,7 @@ stable `fetch` and `WebStreams`, a new experimental flag to flip module defaults
 a built-in WebSocket client, many updates to our test runner, and more!
 
 Node.js 21 will replace Node.js 20 as our ‘Current’ release line when Node.js 20 enters long-term support (LTS) later this month.
-As per the release schedule, Node.js 21 will be ‘Current' release for the next 6 months, until April 2024.
+As per the release schedule, Node.js 21 will be ‘Current' release for the next 6 months, until April 2025.
 
 The project continues to make progress across a number of areas, with many new features and fixes flowing into existing LTS releases.
 For that reason, the changes outlined in the [changelog][CHANGELOG] for Node.js 21 only represent a small subset of the features and
